@@ -1,2 +1,3 @@
 # hello-world
-The first  repository
+第一个存储库
+第一个存储库的说
